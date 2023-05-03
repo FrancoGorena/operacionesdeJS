@@ -1,0 +1,32 @@
+.holder {
+    display: flex;
+    padding: 7px;
+    gap: 15px;
+}
+
+.cuadrado1 {
+    border-style: solid;
+    text-align: center;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    color: #0000ff;
+}
+
+.cuadrado2 {
+    border-style: solid;
+    text-align: center;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    color: #ff0000;
+}
+
+.cuadrado3 {
+    border-style: solid;
+    text-align: center;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    color: #008000;
+}
